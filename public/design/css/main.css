@@ -1,0 +1,13 @@
+.site_title img{
+	width: 40px;
+}
+.input-group-lock__pswwd{
+	position: absolute;
+    right: 25px;
+    top: 7px;
+    cursor: pointer;
+    z-index: 1;
+}
+.tab-content .tab-pane{
+	padding: 20px
+}
